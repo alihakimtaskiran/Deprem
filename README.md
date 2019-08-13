@@ -7,7 +7,7 @@ Eğer yoksa sizi sıkmamak için bildirim göndermez.
 </p>
 <p>
 Program ağ değişikliklerine duyarlıdır. 
-Kandilli Rasathanesi'nin web sitesi olan <a href="http://www.koeri.boun.edu.tr/" target="_blank">http://www.koeri.boun.edu.tr/</a> ile bağlantı kuramazsa size internetin bağlı olmadığını hatırlatan diye bir bildirim gönderir.
+Kandilli Rasathanesi'nin resmi web sitesi olan <a href="http://www.koeri.boun.edu.tr/" target="_blank">http://www.koeri.boun.edu.tr/</a> ile bağlantı kuramazsa size internetin bağlı olmadığını hatırlatan diye bir bildirim gönderir.
 En iyi performans için ağ ayarlarının doğru olduğuna emin olun.
 </p>
 <p>Dikkat etmeniz gereken şu ki program sadece deprem olduktan sonra bildirim gönderir. Olacak depremleri tahmin etmez.</p>
