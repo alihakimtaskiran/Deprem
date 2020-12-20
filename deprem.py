@@ -12,14 +12,13 @@ def get_earthquake():
     ok=0
     
     try:
-        requests.get(url)
+        html=requests.get(url).text
     except:
         print("Internet Connection Error")
         ok=1
         
     #if there is no error ok variable is equal to 0 and the program works correctly
     if ok==0: 
-        html=requests.get(url).text
         #clear the text from unnecessary parts. Such as header, banner etc...
         x=(html.index("--------------"),html.index('</pre>'))
         html=html[x[0]:x[1]].splitlines()[1:500]
